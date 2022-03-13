@@ -1,0 +1,4 @@
+project: "Zomato"   
+ami_id: "ami-076754bea03bde973"
+instance_type: "t2.micro"
+count: 2
