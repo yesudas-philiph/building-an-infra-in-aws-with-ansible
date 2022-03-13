@@ -1,4 +1,4 @@
-# building-an-infra-with-ansible
+# Building-an-infra-with-ansible
 
 ## setup
 
